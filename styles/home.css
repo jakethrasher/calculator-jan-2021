@@ -1,0 +1,29 @@
+/* add home page styles here */
+h1{
+    font-size: 3rem;
+}
+ button{
+    border: none;
+    height: 30px;
+    width: 30px;
+    margin: 8px;
+    border-radius: 5px;
+    background-color: #0db5f2;
+    color: white;
+    font-weight: bold;
+    font-size: 1.2rem;
+   
+}
+.add-button{
+    
+}
+.subtract-button{
+
+}
+.multiply-button{
+
+}
+.divide-button{
+
+}
+    
