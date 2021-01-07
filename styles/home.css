@@ -13,10 +13,22 @@ h1{
     color: white;
     font-weight: bold;
     font-size: 1.2rem;
-   
 }
+
 #clear{
     width: 60px;
     background-color: lightpink;
 }
-    
+.input{
+    font-size: 1.5rem;
+    text-align: center;
+}
+::placeholder {
+    color:lightgrey;
+    font-size: 0.7em;
+  }
+.results{
+    font-size: 2rem;
+}
+
+   

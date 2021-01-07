@@ -54,7 +54,7 @@ for (let button of buttonsArray) {
             result = numOne / numTwo;
         } else if (button.id === 'clear'){
             resultsDisplay.textContent = '';
-            inputTwo.value = '';
+            inputOne.value = '';
             inputTwo.value = '';
         }
         resultsDisplay.textContent = result;
