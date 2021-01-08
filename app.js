@@ -11,15 +11,15 @@ const clearButton = document.getElementById('clear');
 
 
 
-addButton.onclick = addClickHandler;
+addButton.addEventListener('click', addClickHandler);
 
-subtractButton.onclick = subtractClickHandler;
+subtractButton.addEventListener('click', subtractClickHandler);
 
-multiplyButton.onclick = multiplyClickHandler;
+multiplyButton.addEventListener('click', multiplyClickHandler);
 
-divideButton.onclick = divideClickHandler;
+divideButton.addEventListener('click', divideClickHandler);
 
-clearButton.onclick = clearClickHandler;
+clearButton.addEventListener('click', clearClickHandler);
 
 
 
